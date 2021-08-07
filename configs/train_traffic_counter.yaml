@@ -1,5 +1,8 @@
-train: /content/drive/MyDrive/data/2020-02-cctv_highway/bbox/train
-val: /content/drive/MyDrive/data/2020-02-cctv_highway/bbox/train
+# modify to correct paths of your option
+# The paths assume that you are running from
+# /contents/yolov5
+train: ../DLTrafficCounter/data/bbox_highway/train
+val: ../DLTrafficCounter/data/bbox_highway/val
 
 # number of classes
 nc: 3
