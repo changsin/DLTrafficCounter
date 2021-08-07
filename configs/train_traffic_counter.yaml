@@ -3,6 +3,7 @@
 # /contents/yolov5
 train: ../DLTrafficCounter/data/bbox_highway/train
 val: ../DLTrafficCounter/data/bbox_highway/val
+test: ../DLTrafficCounter/data/bbox_highway/test
 
 # number of classes
 nc: 3
